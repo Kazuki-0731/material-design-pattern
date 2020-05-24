@@ -1,0 +1,2 @@
+rootProject.name='material-design-pattern'
+include ':app'
